@@ -1,5 +1,4 @@
 FROM arm32v7/alpine
-MAINTAINER Lucian Loesch 
 
 ENV REFRESHED_AT="2020-05-24" \
     POWERDNS_VERSION=4.3.0 \
